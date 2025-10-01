@@ -1,5 +1,4 @@
-# neetcode-150
-neetcode 150 solutions personal log
+# neetcode 150 solutions personal log
 ---
 
 ## Progress: 0 / 150
