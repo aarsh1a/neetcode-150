@@ -3,6 +3,6 @@ class Solution:
         result = 0
         for i in range(32):
             lastBit=n&1
-            result=result << 1) | lastBit
+            result=(result << 1) | lastBit
             n>>=1
         return result
